@@ -9,6 +9,7 @@
     transmission: "Automática",
     engineSize: 2000,
     engineHorsepower: 290,
+    segment: "Desportivo",
     color: "Preto",
     price: 35000,
     mainImage: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg",
@@ -23,7 +24,8 @@
         url: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg"
       }
     ],
-    location: "Espinho"
+    location: "Espinho",
+    description: "Carro em excelentes condições"
   },
   {
     name: "Peugeot 308",
@@ -35,10 +37,12 @@
     transmission: "Manual",
     engineSize: 1600,
     engineHorsepower: 115,
+    segment: "Citadino",
     color: "Cinzento",
     price: 15000,
     mainImage: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg",
     images: [],
-    location: "Gaia"
+    location: "Gaia",
+    description: "Carro em excelentes condições com livro de revisões"
   }
 ]
