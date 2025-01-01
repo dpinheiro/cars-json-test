@@ -44,5 +44,23 @@
     images: [],
     location: "Gaia",
     description: "Carro em excelentes condições com livro de revisões"
+  },
+  {
+    name: "Mini Cooper",
+    make: "Mini",
+    model: "Cooper",
+    fuel: "Diesel",
+    mileage: 120000,
+    registrationYear: 2010,
+    transmission: "Manual",
+    engineSize: 1600,
+    engineHorsepower: 115,
+    segment: "Citadino",
+    color: "Cinzento",
+    price: 23000,
+    mainImage: "https://images.auto.pt/vehicle_detail_main/d7d8ceba61d72ce0c89fa65df3075d4dc7633a11.jpg",
+    images: [],
+    location: "Gaia",
+    description: "Carro em excelentes condições com livro de revisões"
   }
 ]
