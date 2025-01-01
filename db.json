@@ -1,0 +1,32 @@
+[
+  {
+    name: "Car 1",
+    make: "BMW",
+    model: "330",
+    fuel: "Diesel",
+    mileage: 30000,
+    price: 35000,
+    mainImage: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg",
+    images: [
+      {
+        url: "https://images.auto.pt/vehicle_detail_main/2fb8dc48ffeb273d6b5d3b3911e24858d12d4ced.jpg"
+      },
+      {
+        url: "https://images.auto.pt/vehicle_detail_main/37ffda7813ecc04ecc22d58be996f6ddcf29af8c.jpg"
+      },
+      {
+        url: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg"
+      }
+    ]
+  },
+  {
+    name: "Car 2",
+    make: "BMW",
+    model: "120",
+    fuel: "Diesel",
+    mileage: 120000,
+    price: 15000,
+    mainImage: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg",
+    images: []
+  }
+]
