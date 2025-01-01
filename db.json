@@ -1,10 +1,15 @@
 [
   {
-    name: "Car 1",
+    name: "BMW 330e",
     make: "BMW",
     model: "330",
     fuel: "Diesel",
     mileage: 30000,
+    registrationYear: 2014,
+    transmission: "Automática",
+    engineSize: 2000,
+    engineHorsepower: 290,
+    color: "Preto",
     price: 35000,
     mainImage: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg",
     images: [
@@ -17,16 +22,23 @@
       {
         url: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg"
       }
-    ]
+    ],
+    location: "Espinho"
   },
   {
-    name: "Car 2",
-    make: "BMW",
-    model: "120",
+    name: "Peugeot 308",
+    make: "Peugeot",
+    model: "308",
     fuel: "Diesel",
     mileage: 120000,
+    registrationYear: 2010,
+    transmission: "Manual",
+    engineSize: 1600,
+    engineHorsepower: 115,
+    color: "Cinzento",
     price: 15000,
     mainImage: "https://images.auto.pt/vehicle_detail_main/a5608d557f8e4c44782da941c92f1ab46ec5b35c.jpg",
-    images: []
+    images: [],
+    location: "Gaia"
   }
 ]
